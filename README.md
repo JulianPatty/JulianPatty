@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋 I'm Julian Patrick </h1>
+#<h1 align="center">Hi 👋 I'm Julian Patrick </h1>
 
 # 💫 About Me:
 I am a 2023' graduate of The University of Guelph , passionate about exploring the realms of coding, machine learning, and building robust applications.
@@ -13,7 +12,7 @@ Check out my [coding portfolio!](https://erikc-portfolio.vercel.app/)
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/julian-laptiste-551bb61b4/)
+![Linkedin](https://www.linkedin.com/in/julian-laptiste-551bb61b4/)
 
 # 💻 Tech Stack:
 Languages: 
