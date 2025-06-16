@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋 I'm Julian Patrick </h1>
+<h1 align="center">Hi 👋 I'm Julian Patrick </h1>
 
 # 💫 About Me:
 I am a 2023' graduate of The University of Guelph , passionate about exploring the realms of coding, machine learning, and building robust applications.
