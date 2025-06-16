@@ -12,7 +12,7 @@ Check out my [coding portfolio!](https://erikc-portfolio.vercel.app/)
 
 
 ## 🌐 Connect with me:
-![Linkedin](https://www.linkedin.com/in/julian-laptiste-551bb61b4/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-laptiste-551bb61b4/)
 
 # 💻 Tech Stack:
 Languages: 
