@@ -8,7 +8,6 @@ I am a 2023' graduate of The University of Guelph , passionate about exploring t
 - 🤖 Exploring Machine Learning with [Setn.ai](https://setn.ai/)
 - 💻 Building Spring Boot applications with PostgreSQL
 
-Check out my [coding portfolio!](https://erikc-portfolio.vercel.app/)
 
 
 ## 🌐 Connect with me:
