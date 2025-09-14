@@ -7,9 +7,8 @@ I am a 2023' graduate of The University of Guelph , passionate about exploring t
 
 - 🤖 Exploring Machine Learning with [Setn.ai](https://setn.ai/)
 - 💻 Building Spring Boot applications with PostgreSQL
-<img width="786" height="202" alt="Screenshot 2025-09-12 at 7 36 09 PM" src="https://github.com/user-attachments/assets/6a6cf389-81fa-4dc6-ab90-a13130952770" />
+- <img width="786" height="202" alt="Screenshot 2025-09-12 at 7 36 09 PM 1" src="https://github.com/user-attachments/assets/d69c7488-4b48-4557-833b-34af4dd69de6" />
 
-- 
 
 
 
