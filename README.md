@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am a 2023' graduate of The University of Guelph , passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-## 🚀 What I'm Up To
+## 🚀 What I'm up to
 
 - 🤖 Exploring Machine Learning with [Setn.ai](https://setn.ai/)
 - 💻 Building Spring Boot applications with PostgreSQL
