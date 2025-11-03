@@ -8,12 +8,6 @@ I am a 2023' graduate of The University of Guelph , passionate about exploring t
 - 🤖 Exploring Machine Learning with [Setn.ai](https://setn.ai/)
 - 💻 Building Spring Boot applications with PostgreSQL
 
-January 2025- May 2025
-- <img width="786" height="202" alt="Screenshot 2025-09-12 at 7 36 09 PM 1" src="https://github.com/user-attachments/assets/d69c7488-4b48-4557-833b-34af4dd69de6" />
-
-
-
-
 ## 🌐 Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-laptiste-551bb61b4/)
 
