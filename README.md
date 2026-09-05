@@ -21,7 +21,7 @@
 
 Most of my time goes into **[Innflow](https://innflow.ai)** — an AI property-operations platform. Operators model a recurring job as a workflow (trigger → conditions → actions → review), then agents prepare the next step with the right records attached instead of chatting into the void.
 
-Before that I shipped client products: a house sitting app, a custom storefront, and a one-prompt website conversion optimizer. Same shape every time — a real product, not a demo.
+Before that I shipped client products: a house sitting app, a custom storefront, and a one-prompt website builder for CTR. Same shape every time — a real product, not a demo.
 
 **Right now**
 - Shipping Innflow: workflows, assistant, and the operator workspace
@@ -36,7 +36,7 @@ Before that I shipped client products: a house sitting app, a custom storefront,
 | --- | --- |
 | **[Innflow](https://innflow.ai)** | Property operations platform. Visual workflows, reviewable AI actions, connected records. Product is private; the site and app are live. |
 | **[House sitting app](https://github.com/JulianPatty/Babysitter-SaaS-Client-Project-)** | Client SaaS: bookings, profiles, Clerk auth, Supabase. |
-| **One Prompt** | Website conversion optimizer — one prompt in, a conversion pass for the site. |
+| **One Prompt** | Increase your CTR through a one-prompt website builder. |
 
 ---
 
