@@ -1,53 +1,35 @@
-<h1 align="center">Hi, I'm Julian Patrick</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Founder of <a href="https://innflow.ai">Innflow</a></strong>
-  · University of Guelph, 2023
-</p>
+# Julian Patrick
 
-<p align="center">
-  I build property operations software — visual workflows, an AI assistant with human review, and the TypeScript product those teams actually run.
-</p>
+**Founder @ [Innflow](https://innflow.ai) — AI operations platform for property teams**
+University of Guelph '23 · Full-stack TypeScript · Applied AI
 
-<p align="center">
-  <a href="https://innflow.ai"><img src="https://img.shields.io/badge/innflow.ai-00AEFF?style=for-the-badge" alt="innflow.ai" /></a>
-  <a href="https://www.linkedin.com/in/julian-laptiste-551bb61b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/JulianPatty"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+[![innflow.ai](https://img.shields.io/badge/innflow.ai-00AEFF?style=for-the-badge)](https://innflow.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-laptiste-551bb61b4/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianPatty)
 
----
+</div>
 
-## About
+## What I'm building
 
-Most of my time goes into **[Innflow](https://innflow.ai)** — an AI property-operations platform. Operators model a recurring job as a workflow (trigger → conditions → actions → review), then agents prepare the next step with the right records attached instead of chatting into the void.
+**[Innflow](https://innflow.ai)** — property operators model recurring work as visual workflows (trigger → conditions → actions → human review), and AI agents prepare each next step with the right records attached. Next.js · TypeScript · Inngest · Postgres.
 
-Before that I shipped client products: a babysitting marketplace, a custom storefront, and ops tools. Same shape every time — a real product, not a demo.
-
-**Right now**
-- Shipping Innflow: workflows, assistant, and the operator workspace
-- Next.js / TypeScript across the product and [innflow.ai](https://innflow.ai)
-- Turning client briefs into production apps (auth, data, payments, deploy)
-
----
+Previously shipped client products end-to-end: a babysitting marketplace, a custom storefront, internal ops tools — real production systems, not demos.
 
 ## Featured work
 
 | Project | What it is |
 | --- | --- |
-| **[Innflow](https://innflow.ai)** | Property operations platform. Visual workflows, reviewable AI actions, connected records. Product is private; the site and app are live. |
-| **[Workflow editor](https://github.com/JulianPatty/Client-Database)** | Node graph for building automations — React Flow, typed nodes, Next.js. |
+| **[Innflow](https://innflow.ai)** | AI property-operations platform. Visual workflows, reviewable agent actions, connected records. |
+| **[Workflow editor](https://github.com/JulianPatty/Client-Database)** | Node-graph automation builder — React Flow, typed nodes, Next.js. |
 | **[Babysitting platform](https://github.com/JulianPatty/Babysitter-SaaS-Client-Project-)** | Client SaaS: bookings, profiles, Clerk auth, Supabase. |
 | **[Project Setn](https://project-setn.vercel.app)** | Live Next.js app on Vercel. |
 
----
-
 ## Stack
 
-The tools I actually ship with — not a badge dump.
-
-**Languages**  
+**Core**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -65,11 +47,9 @@ The tools I actually ship with — not a badge dump.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
----
-
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianPatty&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianPatty&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianPatty&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianPatty&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" height="165" />
 </p>
